@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Test title"
+date:   2019-10-19 23:57:57 +0300
+permalink: /test
+---
+
+Test
+
+![My helpful screenshot](/assets/shopify-app-store-statistics.jpg)
