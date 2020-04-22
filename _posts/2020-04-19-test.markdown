@@ -7,4 +7,21 @@ permalink: /test
 
 Test
 
-![My helpful screenshot](/assets/shopify-app-store-statistics.jpg)
+
+
+
+>![thumb-up](/assets/thumb-up.png)
+> For developers using Wix as a platform to build sites for their clients, it poses more of a problem, but for those looking for an easy, DIY website builder that they can adapt and tailor to their liking, Wix is ideal. Thanks again for raising some excellent points though, and we're grateful for your contribution to the conversation.
+
+
+
+
+> A sample blockquote.
+>
+> >Nested blockquotes are
+> >also possible.
+>
+> ## Headers work too
+
+
+
