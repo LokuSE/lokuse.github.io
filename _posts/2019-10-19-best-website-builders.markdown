@@ -7,11 +7,11 @@ date:   2019-10-19 23:57:57 +0300
     
 My name is Vadim Radionov and I have worked as a product manager for the last 4 years, and before that, I worked as an SEO strategist for 5 years.
 
-I had to work with more than 30 website builders. I did not just test them for 1 day for a review, but I worked with them for many months as a product manager and SEO specialist.
+I had to work with more than 20 website builders. I did not just test them for 1 day for a review, but I worked with them for many months as a product manager and SEO specialist.
 
-Therefore, I want to share with you the best website builders.
+Therefore, I want to share my experience with you and tell you about the best website builders.
 
-There will not be a huge list of 30+  options like others do. There are only 3-4 universal site builders that are suitable for any task.
+There are only 3-4 universal site builders that are suitable for any task.
 
 And, you will not believe, only 1 is the best option for eCommerce.
 
@@ -30,15 +30,15 @@ And, you will not believe, only 1 is the best option for eCommerce.
 
 `Wix Pros:`
 
-* Truly flexible website builder
-* User & mobile & SEO friendly templates (500+)
+* Really flexible website builder
+* User,  mobile,  SEO friendly templates (500+)
 * an App Market with 300+ apps
 
 `Wix Cons:`
 
 * You cannot switch a theme on a live site
 
-One of the most flexible and customizable website builders. You can make a site from scratch or use ready-made templates. You can connect marketing tools, such as email newsletters, push notifications, etc. It is also not a problem to connect payment on the site.
+One of the most flexible and customizable website builders. You can make a site from scratch or use ready-made templates. You can connect marketing tools, such as email newsletters, push notifications, etc. It is also not a problem to connect payment on site.
 
 If you have a ready-made business or just an idea for a startup, you can test it very quickly and cheaply. `For this, there are many special templates tailored for a specific business area:`
 
@@ -86,7 +86,7 @@ I recommend WIX to those who want to have a margin of functionality for the futu
 * No app store (mean does not have a ton of apps) because It’s an all-in-one platform. It is also cons. Fewer issues after adding a plugin. 
 * No autosave for pages or posts
 
-I extremely recommend Squarespace. It's one of the best all-around website builder.  They were able to combine an intuitive website builder with perfect themes, best (in market) features and competitive pricing plans.
+I can recommend Squarespace. It's one of the best comprehensive website builder.  They were able to combine an intuitive website builder with perfect themes, best (in market) features and competitive pricing plans.
 
 ***
 ## [Shopify] — Best Ecommerce Website Builder
