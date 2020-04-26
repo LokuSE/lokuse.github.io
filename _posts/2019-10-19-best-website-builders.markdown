@@ -61,7 +61,7 @@ If you have a ready-made business or just an idea for a startup, you can test it
 I recommend WIX to those who want to have a margin of functionality for the future, for when your idea or business goes uphill. If necessary, you can easily expand the functionality of the site using the App Market.
 
 ### More about WIX
-[Wix-customer-reviews](/wix-customer-reviews)
+[Wix Customer Reviews](/wix-customer-reviews)
 
 ***
 
