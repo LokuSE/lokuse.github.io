@@ -21,8 +21,11 @@ And, you will not believe, only 1 is the best option for eCommerce.
 * Weebly — best for anyone who is not tech-savvy
 * Shopify — to anyone building an online store, best for eCommerce websites
 
+<br>
+
 ***
 
+<br>
 
 ## [WIX] — Truly Flexible Website Builder
 [WIX]: https://wix.com
@@ -61,9 +64,13 @@ If you have a ready-made business or just an idea for a startup, you can test it
 I recommend WIX to those who want to have a margin of functionality for the future, for when your idea or business goes uphill. If necessary, you can easily expand the functionality of the site using the App Market.
 
 ### More about WIX
-[Wix Customer Reviews](/wix-customer-reviews)
+[Wix Customer Reviews & FAQ](/wix-customer-reviews)
+
+<br>
 
 ***
+
+<br>
 
 ## [Squarespace] — Best All-around Website Builder
 [Squarespace]: https://www.squarespace.com/
@@ -91,7 +98,16 @@ I recommend WIX to those who want to have a margin of functionality for the futu
 
 I can recommend Squarespace. It's one of the best comprehensive website builder.  They were able to combine an intuitive website builder with perfect themes, best (in market) features and competitive pricing plans.
 
+
+### More about Squarespace
+[Squarespace Customer Reviews & FAQ](/squarespace-customer-reviews)
+
+<br>
+
 ***
+
+<br>
+
 ## [Shopify] — Best Ecommerce Website Builder
 [Shopify]: https://www.shopify.com/
 ![shipify-scores](/assets/shopify-scores.png)
