@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Wix Customer Reviews for 2020"
+title:  "Wix Customer Reviews & FAQ (2020)"
 date:   2020-04-20 23:57:57 +0300
 permalink: /wix-customer-reviews
 ---
 
-# Wix Customer Reviews 2020
+# Wix Customer Reviews & FAQ
 
 >![thumb-up](/assets/thumb-up.png)
 > For developers using Wix as a platform to build sites for their clients, it poses more of a problem, but for those looking for an easy, DIY website builder that they can adapt and tailor to their liking, Wix is ideal. Thanks again for raising some excellent points though, and we're grateful for your contribution to the conversation.
