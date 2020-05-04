@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Squarespace Customer Reviews & FAQ (2020)"
-date:   2020-04-28 21:40:57 +0300
+date:   2022-04-28 21:40:57 +0300
 permalink: /squarespace-customer-reviews
 ---
 

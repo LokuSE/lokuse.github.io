@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wix Customer Reviews & FAQ (2020)"
-date:   2020-04-20 23:57:57 +0300
+date:   2022-04-20 23:57:57 +0300
 permalink: /wix-customer-reviews
 ---
 

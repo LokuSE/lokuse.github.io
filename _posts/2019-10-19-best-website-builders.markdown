@@ -27,8 +27,8 @@ And, you will not believe, only 1 is the best option for eCommerce.
 
 <br>
 
-## [WIX] — Truly Flexible Website Builder
-[WIX]: https://wix.com
+## WIX — Truly Flexible Website Builder
+
 ![WIX-scores](/assets/wix-stars.png)
 
 `Wix Pros:`
@@ -45,26 +45,15 @@ One of the most flexible and customizable website builders. You can make a site 
 
 If you have a ready-made business or just an idea for a startup, you can test it very quickly and cheaply. `For this, there are many special templates tailored for a specific business area:`
 
-* [E-commerce]
-* [Restaurants]
-* [Hotels]
-* [Musicians]
-* [Photographers]
-* [Events]
-* [Fitness]
+* E-commerce
+* Restaurants
+* Hotels
+* Musicians
+* Photographers
+* Events
+* Fitness
 
-[E-commerce]: https://www.wix.com/ecommerce/website
-[Restaurants]: https://www.wix.com/restaurant/website
-[Hotels]: https://wix.com/hotels/website
-[Musicians]: https://wix.com/music/website
-[Photographers]: https://www.wix.com/photography/website
-[Events]: https://www.wix.com/event/website
-[Fitness]: https://www.wix.com/fitness/website
-
-I recommend WIX to those who want to have a margin of functionality for the future, for when your idea or business goes uphill. If necessary, you can easily expand the functionality of the site using the App Market.
-
-### More about WIX
-[Wix Customer Reviews & FAQ](/wix-customer-reviews)
+I can recommend WIX to those who want to have a margin of functionality for the future, for when your idea or business goes uphill. If necessary, you can easily expand the functionality of the site using the App Market.
 
 <br>
 
@@ -72,8 +61,7 @@ I recommend WIX to those who want to have a margin of functionality for the futu
 
 <br>
 
-## [Squarespace] — Best All-around Website Builder
-[Squarespace]: https://www.squarespace.com/
+## Squarespace — Best All-around Website Builder
 
 ![keanu-squarespace-website](/assets/keanu-squarespace.jpg)
 
@@ -98,18 +86,14 @@ I recommend WIX to those who want to have a margin of functionality for the futu
 
 I can recommend Squarespace. It's one of the best comprehensive website builder.  They were able to combine an intuitive website builder with perfect themes, best (in market) features and competitive pricing plans.
 
-
-### More about Squarespace
-[Squarespace Customer Reviews & FAQ](/squarespace-customer-reviews)
-
 <br>
 
 ***
 
 <br>
 
-## [Shopify] — Best Ecommerce Website Builder
-[Shopify]: https://www.shopify.com/
+## Shopify — Best Ecommerce Website Builder
+
 ![shipify-scores](/assets/shopify-scores.png)
 
 If your goal is to build a purely commercial site, I recommend Shopify.
@@ -121,6 +105,7 @@ A distinctive feature of Shopify is an application store that covers any marketi
 There are other eCommerce website builders, but they do not cover a fifth of the functionality available in the App Store Shopify.
 
 ![Shopify-app-store-statistics](/assets/shopify-app-store-statistics.jpg)
+
 Shopify has much more applications than competitors.
 
 **In addition to a huge app store, Shopify has launched and supports such innovative functionality as:**
@@ -129,6 +114,6 @@ Shopify has much more applications than competitors.
 * Shopify Augmented Reality
 * Shopify POS
 
-[Shopify powers over 1000,000 businesses], you can try Shopify free for 90 days, no credit card required. `That's why I highly recommend Shopify to anyone building an online store.`
+Shopify powers over 1000,000 businesses, you can try Shopify free for 90 days, no credit card required. `That's why I highly recommend Shopify to anyone building an online store.`
 
-[Shopify powers over 1000,000 businesses]: https://www.shopify.com/free-trial
+
